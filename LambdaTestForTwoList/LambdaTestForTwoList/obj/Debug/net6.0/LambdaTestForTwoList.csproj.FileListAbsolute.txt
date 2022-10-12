@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\bin\Debug\net6.0\LambdaTestForTwoList.exe
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\bin\Debug\net6.0\LambdaTestForTwoList.deps.json
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\bin\Debug\net6.0\LambdaTestForTwoList.runtimeconfig.json
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\bin\Debug\net6.0\LambdaTestForTwoList.dll
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\bin\Debug\net6.0\LambdaTestForTwoList.pdb
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\obj\Debug\net6.0\LambdaTestForTwoList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\obj\Debug\net6.0\LambdaTestForTwoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\obj\Debug\net6.0\LambdaTestForTwoList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\obj\Debug\net6.0\LambdaTestForTwoList.AssemblyInfo.cs
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\obj\Debug\net6.0\LambdaTestForTwoList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\obj\Debug\net6.0\LambdaTestForTwoList.dll
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\obj\Debug\net6.0\refint\LambdaTestForTwoList.dll
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\obj\Debug\net6.0\LambdaTestForTwoList.pdb
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\obj\Debug\net6.0\LambdaTestForTwoList.genruntimeconfig.cache
+C:\Users\user\Desktop\小小實作\LambdaTestForTwoList\LambdaTestForTwoList\obj\Debug\net6.0\ref\LambdaTestForTwoList.dll
